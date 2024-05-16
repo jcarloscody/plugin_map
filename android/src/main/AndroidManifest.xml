@@ -2,6 +2,6 @@
   package="com.example.poc_map">
   <application>
   <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyAvbfOPfd2IW_tZrvbOnul7ULdouCF2eyQ"/>
+               android:value="AQUI A CHAVE"/>
                </application>
 </manifest>
