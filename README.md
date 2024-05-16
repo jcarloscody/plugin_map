@@ -2,7 +2,7 @@
 
 
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="https://raw.githubusercontent.com/jcarloscody/plugin_map/master/img/plugin.jpg" alt="Exemplo imagem">
 
 
 
